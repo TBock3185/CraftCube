@@ -1,8 +1,11 @@
-# CraftCube
-This is a repository for my  CSUS 2016 Senior Project, the Craft Cube -- CNC Laser Engraver/ 3D Printer 
+This readme is to note that the CAD files are incomplete because I did not include several parts:
 
-Video Timelapses for Final Demonstration:
+-Pretty much all nuts & bolts
 
- 3D Printing Timelapse: https://www.youtube.com/watch?v=elfPQdwai-g
+-Extruder
 
-Laser Engraving Timelapse: https://www.youtube.com/watch?v=zEBCX6oA3y4
+-Raspberry Pi Touchscreen
+
+-Probably other stuff...
+
+Hopefully in the coming days I will work out a BOM List.
